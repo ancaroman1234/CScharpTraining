@@ -1,0 +1,15 @@
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\bin\Debug\net6.0\CSharpFirstproject.exe
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\bin\Debug\net6.0\CSharpFirstproject.deps.json
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\bin\Debug\net6.0\CSharpFirstproject.runtimeconfig.json
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\bin\Debug\net6.0\CSharpFirstproject.dll
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\bin\Debug\net6.0\CSharpFirstproject.pdb
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\obj\Debug\net6.0\CSharpFirstproject.csproj.AssemblyReference.cache
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\obj\Debug\net6.0\CSharpFirstproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\obj\Debug\net6.0\CSharpFirstproject.AssemblyInfoInputs.cache
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\obj\Debug\net6.0\CSharpFirstproject.AssemblyInfo.cs
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\obj\Debug\net6.0\CSharpFirstproject.csproj.CoreCompileInputs.cache
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\obj\Debug\net6.0\CSharpFirstproject.dll
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\obj\Debug\net6.0\refint\CSharpFirstproject.dll
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\obj\Debug\net6.0\CSharpFirstproject.pdb
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\obj\Debug\net6.0\CSharpFirstproject.genruntimeconfig.cache
+C:\Users\anroman\source\repos\CSharpFirstproject\CSharpFirstproject\obj\Debug\net6.0\ref\CSharpFirstproject.dll
